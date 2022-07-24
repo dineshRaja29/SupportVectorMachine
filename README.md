@@ -1,4 +1,3 @@
-# SupportVectorMachine
 - Exploring two versions of SVM
   - Linear
   - RBF
